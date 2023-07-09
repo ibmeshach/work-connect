@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    position: relative;
+    margin: 20px;
+    padding: 10px;
+}
+
+.nav-bar-right {
+    position: absolute;
+    right: 10px;
+}
+
+.nav-bar-right ul {
+    list-style: None;
+    display: flex;
+    margin-right: 40px;
+}
+
+div.nav-bar-right li {
+    border: 10px white solid;
+}
+
+.logo {
+    font-size: 5rem;
+}
+
+.nav-bar-padding {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}

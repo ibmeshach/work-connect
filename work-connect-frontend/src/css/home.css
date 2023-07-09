@@ -1,0 +1,109 @@
+body {
+    font-size: 16px;
+}
+
+
+.home-page {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.search-post {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-margin-y {
+    margin: 4rem 0;
+}
+
+.bgg-margin-y {
+    margin: 8rem 0;
+}
+
+.bg-padding-y {
+    padding: 4rem 0;
+}
+
+.bg-padding-x {
+    padding: 0 4rem;
+}
+
+.bgg-padding-x {
+    padding: 0 8rem;
+}
+
+.bgg-padding-y {
+    padding: 8rem 0;
+}
+
+.bgg-padding {
+    padding: 8rem;
+}
+
+.bg-padding {
+    padding: 4rem;
+}
+
+.light-grey {
+    background-color: rgb(228, 222, 222);
+}
+
+.mild-dark {
+    background-color: rgb(41, 37, 37);
+}
+
+.my-btn {
+    padding: 10px 20px;
+}
+
+h1.front-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p.front-p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.small-heading {
+    font-size: 1rem;
+}
+
+.img-addr {
+    width: 100%;
+    height: 50%;
+}
+
+.display-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hr {
+    text-align: center;
+    width: 30%;
+    border-top-width: 3px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.c-width {
+    width: 150px;
+}
+
+.success-light {
+    color: rgb(27, 201, 27);
+}
+
+.primary-light {
+    color: rgb(78, 78, 216);
+}
+
+.smaller-heading {
+    font-size: 1.8rem;
+}

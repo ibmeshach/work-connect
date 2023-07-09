@@ -1,0 +1,25 @@
+.posts {
+    padding: 20px;
+    padding-top: 0px;   
+}
+
+.section-comment {
+    display: flex;
+}
+
+.like-posts {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.comment-posts {
+    padding: 5px;
+    margin-left: 20px;
+} 
+
+.create-comment {
+    margin-left: 10px;
+    padding: 5px;
+}
